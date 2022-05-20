@@ -153,6 +153,9 @@ form {
     color: white;
 }
 
+textarea {
+    resize: none
+}
 
 #con {
     font-size: 20px;
